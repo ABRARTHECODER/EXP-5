@@ -35,11 +35,13 @@ CIRCUIT DIAGRAM:
 
 LINE REGULATION :
 
-![WhatsApp Image 2026-03-16 at 9 38 26 PM](https://github.com/user-attachments/assets/d8e3bc36-6c22-4494-8f07-e964d0639706)
+<img width="1204" height="1600" alt="image" src="https://github.com/user-attachments/assets/dcdff3cd-e97b-4b4c-b998-3b93ffdad819" />
+
 
 LOAD REGULATION  :
 
-![WhatsApp Image 2026-03-16 at 9 39 12 PM](https://github.com/user-attachments/assets/97ff3909-93e7-4566-abb5-07f7f8a53143)
+<img width="1600" height="1204" alt="image" src="https://github.com/user-attachments/assets/d58ab521-2ef2-4806-99c6-9ff406d745ad" />
+
 
 PRECAUTIONS:
 
