@@ -35,7 +35,8 @@ CIRCUIT DIAGRAM:
 
 LINE REGULATION :
 
-<img width="1204" height="1600" alt="image" src="https://github.com/user-attachments/assets/dcdff3cd-e97b-4b4c-b998-3b93ffdad819" />
+![WhatsApp Image 2026-03-23 at 14 58 35](https://github.com/user-attachments/assets/07c4a17b-ce3e-455a-a314-13c8ec94f7a7)
+
 
 
 LOAD REGULATION  :
